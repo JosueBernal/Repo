@@ -1,6 +1,6 @@
-# Este es mi primer repo
+# Nueva clase de git
 *Hola*
 **Vamos a darle**
 
 
-"Es momento de cambiar al mundo"
+"Es momento de cambiar al mundo
