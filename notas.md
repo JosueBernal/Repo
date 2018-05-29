@@ -31,3 +31,6 @@ Con un solo asterisco puedo poner *cursiva*
 [Este es un link](https://dillinger.io/)
 
 ![mi imagen](http://estag.fimagenes.com/img/2/2/X/s/2Xs_900.jpg)
+
+
+**Centraal Academy**
